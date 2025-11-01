@@ -53,8 +53,8 @@ This project implements a complete statistical analysis pipeline for cancer diag
 1. **Clone or download the project:**
    ```bash
    # If using git
-   git clone <repository-url>
-   cd cancer_diagnosis_stats
+   git clone https://github.com/nikhilesh9ix/Cancer-Diagnosis-Statistical-Analysis.git
+   cd Cancer-Diagnosis-Statistical-Analysis
    
    # Or download and extract the ZIP file
    ```
