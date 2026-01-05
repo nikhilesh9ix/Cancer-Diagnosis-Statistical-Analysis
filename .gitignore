@@ -117,8 +117,8 @@ cython_debug/
 # VS Code
 .vscode/
 
-# Streamlit
-.streamlit/
+# Streamlit secrets (not config)
+.streamlit/secrets.toml
 
 # Generated test files
 test_plot.png
