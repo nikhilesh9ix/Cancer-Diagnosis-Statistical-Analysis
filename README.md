@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
+🚀 **[Live Demo](https://cancer-diagnosis-statistical-analysis.streamlit.app/)**
+
 A comprehensive Python project for performing statistical hypothesis testing on cancer diagnosis data, featuring synthetic data generation, advanced statistical analysis, and an interactive Streamlit web application.
 
 ## 🎯 Project Overview
